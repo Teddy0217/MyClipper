@@ -1,0 +1,26 @@
+{
+  "entity": [
+    {
+      "name": "UCI",
+      "count": 1
+    },
+    {
+      "name": "DJI",
+      "count": 1
+    },
+    {
+      "name": "FlyTrap",
+      "count": 1
+    }
+  ],
+  "topic": [
+    {
+      "name": "无人机安全",
+      "count": 1
+    },
+    {
+      "name": "目标追踪漏洞",
+      "count": 1
+    }
+  ]
+}
