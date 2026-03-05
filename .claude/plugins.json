@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "lastUpdated": 1772115619157,
+  "plugins": [
+    {
+      "filename": "clip.md",
+      "type": "command",
+      "metadata": {
+        "sourcePath": "commands\\clip.md",
+        "filename": "clip.md",
+        "name": "clip",
+        "description": "链接剪报（联网），读取URL或粘贴正文，扩展搜索，生成阅读稿",
+        "category": "commands",
+        "type": "command",
+        "size": 1915,
+        "contentHash": "24e80d3b489a0e685f215a20ceb27af201f213e65c1f025f4c50e38415fe5413"
+      }
+    },
+    {
+      "filename": "find.md",
+      "type": "command",
+      "metadata": {
+        "sourcePath": "commands\\find.md",
+        "filename": "find.md",
+        "name": "find",
+        "description": "剪报回溯（离线），搜索已有剪报",
+        "category": "commands",
+        "type": "command",
+        "size": 670,
+        "contentHash": "afe2d899f5be868604a848b1062ad30d27310062f477706a32c4bc65d2303e2a"
+      }
+    },
+    {
+      "filename": "fix.md",
+      "type": "command",
+      "metadata": {
+        "sourcePath": "commands\\fix.md",
+        "filename": "fix.md",
+        "name": "fix",
+        "description": "索引维护（离线），检查索引健康度并修复问题",
+        "category": "commands",
+        "type": "command",
+        "size": 696,
+        "contentHash": "bcc01475327937872aedf8799ef1420d2cc072eb0da18e3237b09bbfdac5b491"
+      }
+    },
+    {
+      "filename": "help.md",
+      "type": "command",
+      "metadata": {
+        "sourcePath": "commands\\help.md",
+        "filename": "help.md",
+        "name": "help",
+        "description": "列出所有可用命令",
+        "category": "commands",
+        "type": "command",
+        "size": 1142,
+        "contentHash": "917cc60e7978993bf79e96cfa5e203c2ae00259dbae1d43cad7daca654b0d67f"
+      }
+    },
+    {
+      "filename": "save.md",
+      "type": "command",
+      "metadata": {
+        "sourcePath": "commands\\save.md",
+        "filename": "save.md",
+        "name": "save",
+        "description": "知识存档（离线），保存用户粘贴的文本或文件，不联网搜索",
+        "category": "commands",
+        "type": "command",
+        "size": 1154,
+        "contentHash": "5143c88094450223502e78e265cd45c8a5c84cb1c7a180c4957856768e19bea8"
+      }
+    },
+    {
+      "filename": "tag.md",
+      "type": "command",
+      "metadata": {
+        "sourcePath": "commands\\tag.md",
+        "filename": "tag.md",
+        "name": "tag",
+        "description": "标签管理（离线），查看/增加/删除/重命名标签池",
+        "category": "commands",
+        "type": "command",
+        "size": 941,
+        "contentHash": "20afb24bf0ab40f06ab50c3f50fafa03bcaebe2afb5e990626fa6eb2b226a3be"
+      }
+    },
+    {
+      "filename": "topic.md",
+      "type": "command",
+      "metadata": {
+        "sourcePath": "commands\\topic.md",
+        "filename": "topic.md",
+        "name": "topic",
+        "description": "话题时间线（离线），从已有剪报中按tag筛选并按时间排列",
+        "category": "commands",
+        "type": "command",
+        "size": 1118,
+        "contentHash": "0173491d30c83167fd4679bc31110857fc9876ae47b8c821ebe7b9ee8b3d2179"
+      }
+    }
+  ]
+}
